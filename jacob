@@ -1,0 +1,6 @@
+jacob () {
+  echo "Here's where my dotfiles would install..."
+  echo "Use your imagination :)"
+}
+
+jacob
